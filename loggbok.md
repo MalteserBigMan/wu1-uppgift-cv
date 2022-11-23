@@ -1,9 +1,6 @@
 # Loggbok för CV
 
-Här skriver jag en planering för mitt CV.
-Sedan skriver jag kring mitt arbete och hur det gick.
-
-Skriv en kort planering först.
+Jag tänker göra en sida med hjälp av mitt cv om Walter White som jag skrev på engelskan. Kommer att 
 
 ## Planering
 
