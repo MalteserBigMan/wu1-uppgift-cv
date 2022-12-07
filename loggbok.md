@@ -14,4 +14,4 @@ Pass 3-4: Sjuk: Inte gjort någonting.
 
 Pass 5-6: Har gjort klart strukturen och har lagt in informationen gällande Walters CV samt gjort om mitt css för att anpassa bilderna.
 
-Hade två fel i wave men fixade båda. Fick inte använda bilden av Walter White så jag bytte ut den. Jag var sjuk när vi skissade sidan på figma men jag skissade sidan på papper, de stämmer överräns bra. Min sida fungerar bra och följer punkterna.
+Hade två fel i wave men fixade båda. Fick inte använda bilden av Walter White så jag bytte ut den. Skissen i figma stämmer överräns bra med hemsidan (https://www.figma.com/file/slKuDCmxBimbQEG2FtkUd7/Untitled?node-id=0%3A1&t=ZOBioyNii8INM1SG-0). Sidan fungerar utan css samt har inga errors i css, wave eller validator längre. Sidan fungerar också på telefon samt dator.
